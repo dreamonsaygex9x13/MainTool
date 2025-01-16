@@ -1,0 +1,1576 @@
+__4744526759410 = 0
+__4744526759410 += 1
+try:
+    raise MemoryError(__4744526759410)
+except MemoryError as __6678252951184:
+    if __6678252951184.args[0] == 1:
+        globals()['mol'] = bool if bool(bool(bool(bool))) < bool(type(int(78) > int(59) < int(614) > int(1518))) and bool(str(str(108) > int(183) < int(135) > int(1918))) > 2 else bool
+    if __6678252951184.args[0] == 3:
+        __3934394103385 = 216614375796485
+    if __6678252951184.args[0] == 4:
+        __2826546529654 = 148849597870903
+    if __6678252951184.args[0] == 5:
+        __8154638084928 = 176032286145735
+__6892522193033 = 0
+__6892522193033 += 1
+try:
+    raise MemoryError(__6892522193033)
+except MemoryError as __3540517325889:
+    if __3540517325889.args[0] == 1:
+        globals()['co2'] = str if bool(bool(bool(str))) < bool(type(int(1619) > int(143) < int(416) > int(158))) and bool(str(str(1815) > int(714) < int(145) > int(1618))) > 2 else str
+    if __3540517325889.args[0] == 3:
+        __4858019341636 = 242982476389394
+    if __3540517325889.args[0] == 4:
+        __6441933130723 = 200362524091204
+__6887406167155 = 0
+__6887406167155 += 1
+try:
+    raise MemoryError(__6887406167155)
+except MemoryError as __2674884345845:
+    if __2674884345845.args[0] == 1:
+        globals()['feo2'] = type if bool(bool(bool(type))) < bool(type(int(1612) > int(119) < int(814) > int(514))) and bool(str(str(312) > int(46) < int(84) > int(418))) > 2 else type
+    if __2674884345845.args[0] == 3:
+        __5670401543702 = 17243382258134
+    if __2674884345845.args[0] == 4:
+        __5576202329581 = 18720407016834
+    if __2674884345845.args[0] == 5:
+        __6922807102290 = 95414718140671
+    if __2674884345845.args[0] == 6:
+        __6930857350236 = 93074098612765
+    if __2674884345845.args[0] == 7:
+        __3631900438184 = 101771379445370
+__2972414288966 = 0
+__2972414288966 += 1
+try:
+    raise MemoryError(__2972414288966)
+except MemoryError as __7817138990816:
+    if __7817138990816.args[0] == 1:
+        globals()['h2so4'] = int if bool(bool(bool(int))) < bool(type(int(1918) > int(415) < int(1511) > int(151))) and bool(str(str(1610) > int(1911) < int(810) > int(1311))) > 2 else int
+    if __7817138990816.args[0] == 3:
+        __2092490297788 = 78662829204881
+    if __7817138990816.args[0] == 4:
+        __3430333636610 = 68349847232894
+    if __7817138990816.args[0] == 5:
+        __2303444272196 = 267611447691811
+__3024367694000 = 0
+__3024367694000 += 1
+try:
+    raise MemoryError(__3024367694000)
+except MemoryError as __2497758741309:
+    if __2497758741309.args[0] == 1:
+        globals()['feso4'] = bytes if bool(bool(bool(bytes))) < bool(type(int(210) > int(315) < int(511) > int(411))) and bool(str(str(37) > int(1116) < int(216) > int(1917))) > 2 else bytes
+    if __2497758741309.args[0] == 3:
+        __8426409113719 = 176137715587475
+__3521038596788 = 0
+__3521038596788 += 1
+try:
+    raise MemoryError(__3521038596788)
+except MemoryError as __8037929789077:
+    if __8037929789077.args[0] == 1:
+        globals()['agno3'] = vars if bool(bool(bool(vars))) < bool(type(int(76) > int(114) < int(118) > int(194))) and bool(str(str(194) > int(94) < int(92) > int(1411))) > 2 else vars
+    if __8037929789077.args[0] == 3:
+        __6972666288973 = 255092238719309
+    if __8037929789077.args[0] == 4:
+        __4841113547916 = 195955883404266
+    if __8037929789077.args[0] == 5:
+        __8024857176674 = 87650824644142
+__5125412148133 = 0
+__5125412148133 += 1
+try:
+    raise MemoryError(__5125412148133)
+except MemoryError as __6876387358094:
+    if __6876387358094.args[0] == 1:
+        globals()['h2'] = callable if bool(bool(bool(callable))) < bool(type(int(37) > int(211) < int(1815) > int(86))) and bool(str(str(1219) > int(1410) < int(713) > int(1119))) > 2 else callable
+    if __6876387358094.args[0] == 3:
+        __6974368584405 = 58999217462296
+    if __6876387358094.args[0] == 4:
+        __7368437960525 = 244492537579237
+    if __6876387358094.args[0] == 5:
+        __8023271340992 = 236828322399002
+    if __6876387358094.args[0] == 6:
+        __4339804494393 = 195798088441541
+__7350085811382 = 0
+__7350085811382 += 1
+try:
+    raise MemoryError(__7350085811382)
+except MemoryError as __3996759765839:
+    if __3996759765839.args[0] == 1:
+        globals()['h2o3'] = eval if bool(bool(bool(eval))) < bool(type(int(163) > int(1413) < int(1410) > int(187))) and bool(str(str(71) > int(1014) < int(165) > int(318))) > 2 else eval
+    if __3996759765839.args[0] == 3:
+        __4312434178823 = 261823938279434
+    if __3996759765839.args[0] == 4:
+        __6653841177815 = 7228908176258
+    if __3996759765839.args[0] == 5:
+        __8641736252405 = 196971235088070
+    if __3996759765839.args[0] == 6:
+        __2558614946825 = 115855732632553
+    if __3996759765839.args[0] == 7:
+        __3610017803775 = 45990323700551
+__2096990253963 = 0
+__2096990253963 += 1
+try:
+    raise MemoryError(__2096990253963)
+except MemoryError as __8579317579888:
+    if __8579317579888.args[0] == 1:
+        globals()['agno4'] = list if bool(bool(bool(list))) < bool(type(int(146) > int(416) < int(1811) > int(21))) and bool(str(str(161) > int(1710) < int(98) > int(113))) > 2 else list
+    if __8579317579888.args[0] == 3:
+        __5314977379953 = 50480928717254
+    if __8579317579888.args[0] == 4:
+        __3569712620578 = 88147068018681
+    if __8579317579888.args[0] == 5:
+        __4151686562467 = 4967362094535
+    if __8579317579888.args[0] == 6:
+        __3764717832503 = 24206874975044
+    if __8579317579888.args[0] == 7:
+        __4629349995835 = 81472441275460
+__4091773800212 = 0
+__4091773800212 += 1
+try:
+    raise MemoryError(__4091773800212)
+except MemoryError as __7039259145743:
+    if __7039259145743.args[0] == 1:
+        globals()['h3o'] = map if bool(bool(bool(map))) < bool(type(int(1916) > int(18) < int(1618) > int(1713))) and bool(str(str(1415) > int(819) < int(112) > int(514))) > 2 else map
+    if __7039259145743.args[0] == 3:
+        __7830720968318 = 275267707657185
+    if __7039259145743.args[0] == 4:
+        __2901033480982 = 272403798522906
+    if __7039259145743.args[0] == 5:
+        __6630155020235 = 80442579359820
+    if __7039259145743.args[0] == 6:
+        __5390943055180 = 4524304430533
+__3428635162184 = 0
+__3428635162184 += 1
+try:
+    raise MemoryError(__3428635162184)
+except MemoryError as __4460382478710:
+    if __4460382478710.args[0] == 1:
+        globals()['ch2oh4p2so4'] = __import__ if bool(bool(bool(__import__))) < bool(type(int(59) > int(313) < int(18) > int(1410))) and bool(str(str(121) > int(116) < int(73) > int(177))) > 2 else __import__
+    if __4460382478710.args[0] == 3:
+        __6883558898062 = 51600289190227
+    if __4460382478710.args[0] == 4:
+        __2138632158481 = 14703156324251
+    if __4460382478710.args[0] == 5:
+        __3780701892725 = 230489686145661
+    if __4460382478710.args[0] == 6:
+        __3783200252710 = 55652246933693
+__5049409607959 = 0
+__5049409607959 += 1
+try:
+    raise MemoryError(__5049409607959)
+except MemoryError as __4797760411751:
+    if __4797760411751.args[0] == 1:
+        globals()['tryᅠ'] = print if bool(bool(bool(print))) < bool(type(int(19) > int(23) < int(168) > int(114))) and bool(str(str(1619) > int(616) < int(175) > int(35))) > 2 else print
+    if __4797760411751.args[0] == 3:
+        __4335334478393 = 131016544254819
+    if __4797760411751.args[0] == 4:
+        __4471723772073 = 41300821409212
+__3013940535904 = 0
+__3013940535904 += 1
+try:
+    raise MemoryError(__3013940535904)
+except MemoryError as __4834571848384:
+    if __4834571848384.args[0] == 1:
+        globals()['exceptᅠ'] = input if bool(bool(bool(input))) < bool(type(int(154) > int(173) < int(184) > int(173))) and bool(str(str(194) > int(42) < int(810) > int(617))) > 2 else input
+    if __4834571848384.args[0] == 3:
+        __5525408839710 = 7492188784701
+    if __4834571848384.args[0] == 4:
+        __4316584224881 = 170766486832311
+    if __4834571848384.args[0] == 5:
+        __3247747162018 = 36611716625784
+    if __4834571848384.args[0] == 6:
+        __8481018636889 = 3778374969677
+
+def h2o(july, *k):
+    __6460843227386 = 0
+    __6460843227386 += 1
+    try:
+        raise MemoryError(__6460843227386)
+    except MemoryError as __5732922595400:
+        if __5732922595400.args[0] == 1:
+            if k:
+                Dreamon = '+'
+                op = '+'
+            else:
+                Dreamon = ''
+                op = ''
+        if __5732922595400.args[0] == 1:
+            globals()['_132'] = (lambda: (lambda _214: _214 + (lambda: H2SbF7(30584))())(0) == 1)()
+        if __5732922595400.args[0] == 1:
+            globals()['h2o'] = h2o
+        if __5732922595400.args[0] == 1:
+            globals()['co2'] = co2
+        if __5732922595400.args[0] == 1:
+            globals()['july'] = july
+        if __5732922595400.args[0] == 1:
+            for globals()['Dreamon_'] in globals()['july']:
+                if not _132:
+                    globals()['Dreamon_'] += (lambda: '')()
+                Dreamon += co2(Dreamon_)
+                f = (lambda: (lambda _106: _106 + (lambda: H2SbF7(30584))())(0) == 1)()
+        if __5732922595400.args[0] == 1:
+            return Dreamon
+        if __5732922595400.args[0] == 9:
+            __7171543134501 = 73176432388527
+        if __5732922595400.args[0] == 10:
+            __7225253236626 = 276747192656174
+
+def H2SbF7(x):
+    __4315748827727 = 0
+    __4315748827727 += 1
+    try:
+        raise MemoryError(__4315748827727)
+    except MemoryError as __7834701917540:
+        if __7834701917540.args[0] == 1:
+            return h2so4(x - 30583)
+        if __7834701917540.args[0] == 3:
+            __5630353853474 = 70456081836498
+        if __7834701917540.args[0] == 4:
+            __2705333264306 = 4482755121089
+        if __7834701917540.args[0] == 5:
+            __4818989415087 = 228541304316564
+        if __7834701917540.args[0] == 6:
+            __3756601135950 = 115367572778206
+        if __7834701917540.args[0] == 7:
+            __4821314251630 = 166495328635831
+
+def c2h6(e):
+    __5976073291301 = 0
+    __5976073291301 += 1
+    try:
+        raise MemoryError(__5976073291301)
+    except MemoryError as __8018134092048:
+        if __8018134092048.args[0] == 1:
+            br = bytearray(e[len(b'Dreamon/'):])
+        if __8018134092048.args[0] == 1:
+            r = 0
+        if __8018134092048.args[0] == 1:
+            for b in br:
+                r = r * 256 + b
+        if __8018134092048.args[0] == 1:
+            return r
+        if __8018134092048.args[0] == 6:
+            __6030802780596 = 81720090161944
+        if __8018134092048.args[0] == 7:
+            __2786390920957 = 170830512299162
+
+def longlongint(x):
+    __7250884987651 = 0
+    __7250884987651 += 1
+    try:
+        raise MemoryError(__7250884987651)
+    except MemoryError as __8384201566712:
+        if __8384201566712.args[0] == 1:
+            ar = []
+        if __8384201566712.args[0] == 1:
+            for i in x:
+                ar.append(h2o3(i))
+        if __8384201566712.args[0] == 1:
+            return ar
+        if __8384201566712.args[0] == 5:
+            __8473672658321 = 238750428280815
+        if __8384201566712.args[0] == 6:
+            __8482903795486 = 29803421424680
+        if __8384201566712.args[0] == 7:
+            __3597824169528 = 76375355283443
+if (lambda: (lambda _149: _149 + (lambda: H2SbF7(30584))())(0) == 1)():
+
+    def o2(h2so3):
+        h2so3 = h2so3 - 16742655
+        if h2so3 <= 127:
+            return co2(feso4([h2so3]), 'utf8')
+        elif h2so3 <= 2047:
+            if 1 < 2:
+                b1 = 192 | h2so3 >> 6
+            b2 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2]), 'utf8')
+        elif h2so3 <= 65535:
+            b1 = 224 | h2so3 >> 12
+            if 2 > 1:
+                b2 = 128 | h2so3 >> 6 & 63
+            b3 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2, b3]), 'utf8')
+        else:
+            b1 = 240 | h2so3 >> 18
+            if 2 == 2:
+                b2 = 128 | h2so3 >> 12 & 63
+            if 1 < 2 < 3:
+                b3 = 128 | h2so3 >> 6 & 63
+            b4 = 128 | h2so3 & 63
+            return co2(feso4([b1, b2, b3, b4]), 'utf8')
+
+    def _hex(j):
+        h2so3 = ''
+        for _hex in j:
+            h2so3 += o2(_hex)
+        return h2so3
+else:
+    'Dreamon'
+try:
+    match '76' == '1215':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1516 = [[True], [False]]
+            co2(['_1418'])
+    raise MemoryError([True])
+except MemoryError as _210:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1119: _1119 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _53 = [[(lambda: (lambda _27: _27 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _69: _69 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742710, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1612: _1612 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1816:
+        import traceback, marshal
+try:
+    match '1918' == '194':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1316 = [[True], [False]]
+            co2(['_313'])
+    raise MemoryError([True])
+except MemoryError as _918:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _316: _316 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1517 = [[(lambda: (lambda _34: _34 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _174: _174 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _181: _181 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _169:
+        ch = set()
+try:
+    match '106' == '92':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _92 = [[True], [False]]
+            co2(['_1216'])
+    raise MemoryError([True])
+except MemoryError as _29:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742704, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _124: _124 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _96 = [[(lambda: (lambda _15: _15 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1411: _1411 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742704, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _1011: _1011 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _29:
+        am = {(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffya'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())(), (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy^'))(), (lambda: c2h6(b'Dreamon/\xffy^'))(), (lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffy^'))(), (lambda: c2h6(b'Dreamon/\xffy^'))()]))))())())()}
+try:
+    match '1119' == '811':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _157 = [[True], [False]]
+            co2(['_172'])
+    raise MemoryError([True])
+except MemoryError as _192:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742705, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _175: _175 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _17 = [[(lambda: (lambda _1011: _1011 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _116: _116 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _912: _912 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _107:
+
+        def vv():
+            raise MemoryError((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy='))(), (lambda: c2h6(b'Dreamon/\xffy='))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyF'))(), (lambda: c2h6(b'Dreamon/\xffyN'))(), (lambda: c2h6(b'Dreamon/\xffyN'))(), (lambda: c2h6(b'Dreamon/\xffyC'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyK'))(), (lambda: c2h6(b'Dreamon/\xffyT'))(), (lambda: c2h6(b'Dreamon/\xffyB'))(), (lambda: c2h6(b'Dreamon/\xffyJ'))(), (lambda: c2h6(b'Dreamon/\xffy '))(), (lambda: c2h6(b'Dreamon/\xffy '))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyB'))(), (lambda: c2h6(b'Dreamon/\xffyN'))(), (lambda: c2h6(b'Dreamon/\xffyM'))(), (lambda: c2h6(b'Dreamon/\xffyL'))(), (lambda: c2h6(b'Dreamon/\xffyD'))(), (lambda: c2h6(b'Dreamon/\xffyL'))(), (lambda: c2h6(b'Dreamon/\xffy@'))(), (lambda: c2h6(b'Dreamon/\xffyX'))()]))))())())()) from None
+try:
+    match '14' == '1714':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _183 = [[True], [False]]
+            co2(['_318'])
+    raise MemoryError([True])
+except MemoryError as _154:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1210: _1210 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1215 = [[(lambda: (lambda _196: _196 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _83: _83 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _316: _316 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _718:
+
+        def cb(fn):
+            if callable(fn) and fn.__module__ not in am:
+                ch.add(fn.__module__)
+                vv()
+try:
+    match '146' == '1416':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _911 = [[True], [False]]
+            co2(['_111'])
+    raise MemoryError([True])
+except MemoryError as _1817:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742711, 16742704, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _316: _316 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1416 = [[(lambda: (lambda _710: _710 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _15: _15 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _29: _29 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _515:
+
+        def ba(fn):
+
+            def hi(*args, **kwargs):
+                if args and args[(lambda: c2h6(b'Dreamon/'))()] in ch:
+                    vv()
+                return fn(*args, **kwargs)
+            return hi
+try:
+    match '126' == '56':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _151 = [[True], [False]]
+            co2(['_128'])
+    raise MemoryError([True])
+except MemoryError as _219:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1314: _1314 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _73 = [[(lambda: (lambda _1410: _1410 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1619: _1619 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742712, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _16: _16 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _68:
+
+        def bh():
+            stack = traceback.extract_stack()
+            for frame in stack[:-(lambda: c2h6(b'Dreamon/\x02'))()]:
+                if frame.filename != __file__:
+                    vv()
+try:
+    match '717' == '1915':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _18 = [[True], [False]]
+            co2(['_1016'])
+    raise MemoryError([True])
+except MemoryError as _159:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742711, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742711, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1810: _1810 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1415 = [[(lambda: (lambda _51: _51 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1614: _1614 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742704, 16742703]))))())())()])
+        raise MemoryError([(lambda: (lambda _16: _16 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1419:
+
+        def ck(fn, md):
+            if callable(fn) and fn.__module__ != md:
+                ch.add(md)
+                raise ImportError((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780, 16742778, 16742780, 16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742717, 16742717, 16742687, 16742723, 16742756, 16742771, 16742756, 16742754, 16742771, 16742687, 16742746]))))())())(), fn.__name__, (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742748, 16742687, 16742754, 16742752, 16742763, 16742763, 16742687, 16742746]))))())())(), md, (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742748, 16742687, 16742688, 16742687, 16742715, 16742715]))))())())())) from None
+try:
+    match '183' == '182':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _314 = [[True], [False]]
+            co2(['_512'])
+    raise MemoryError([True])
+except MemoryError as _78:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742712, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _312: _312 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1215 = [[(lambda: (lambda _98: _98 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _217: _217 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742706, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _818: _818 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _21:
+
+        def ic(md, nf):
+            module = __import__(md)
+            funcs = nf if isinstance(nf, list) else [nf]
+            [ck(getattr(module, func, None), md) for func in funcs]
+try:
+    match '612' == '817':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1210 = [[True], [False]]
+            co2(['_1318'])
+    raise MemoryError([True])
+except MemoryError as _108:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _108: _108 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _89 = [[(lambda: (lambda _186: _186 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _38: _38 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742706, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1217: _1217 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _410:
+
+        def lf(val, xy):
+            return callable(val) and xy and (val.__module__ != xy.__name__)
+try:
+    match '1119' == '92':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1213 = [[True], [False]]
+            co2(['_196'])
+    raise MemoryError([True])
+except MemoryError as _815:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _612: _612 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _612 = [[(lambda: (lambda _1113: _1113 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1910: _1910 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _168: _168 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1114:
+
+        def kt(lo):
+            if any((lf(val, xy) for val, xy in lo)):
+                vv()
+try:
+    match '515' == '165':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _185 = [[True], [False]]
+            co2(['_516'])
+    raise MemoryError([True])
+except MemoryError as _61:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1315: _1315 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _119 = [[(lambda: (lambda _97: _97 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1716: _1716 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742708, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _32: _32 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _32:
+
+        def ct(md, nf):
+            module = __import__(md)
+            func = getattr(module, nf, None)
+            if func is None:
+                vv()
+            tg = type(func)
+
+            def cf(func):
+                if type(func) != tg:
+                    vv()
+            cf(func)
+            return func
+try:
+    match '153' == '815':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _139 = [[True], [False]]
+            co2(['_1517'])
+    raise MemoryError([True])
+except MemoryError as _915:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742706, 16742704, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _216: _216 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _25 = [[(lambda: (lambda _616: _616 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _61: _61 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _76: _76 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1911:
+
+        def ic_type(md, nf):
+            func = ct(md, nf)
+            ck(func, md)
+try:
+    match '1914' == '35':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _123 = [[True], [False]]
+            co2(['_1015'])
+    raise MemoryError([True])
+except MemoryError as _16:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _152: _152 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _219 = [[(lambda: (lambda _107: _107 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _618: _618 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742703, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _32: _32 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _125:
+
+        def nc():
+            __import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()).settrace(lambda *args, **keys: None)
+            __import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()).modules[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()] = None
+            __import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()).modules[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()] = type(__import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()))((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())())
+            __import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()).modules[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()].loads = marshal.loads
+try:
+    match '1518' == '1819':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _118 = [[True], [False]]
+            co2(['_515'])
+    raise MemoryError([True])
+except MemoryError as _17:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742712, 16742704, 16742708]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1214: _1214 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _106 = [[(lambda: (lambda _1912: _1912 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _114: _114 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742709, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _215: _215 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _211:
+
+        def sc():
+            nk = {(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())(): (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()}
+            [ic_type(md, nf) for md, nf in nk.items()]
+            lo = [(__import__((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()).loads, marshal)]
+            kt(lo)
+            nc()
+try:
+    match '91' == '1316':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1817 = [[True], [False]]
+            co2(['_512'])
+    raise MemoryError([True])
+except MemoryError as _514:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742707]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _157: _157 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1316 = [[(lambda: (lambda _1016: _1016 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1410: _1410 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742712, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _1615: _1615 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _116:
+        sc()
+try:
+    match '1113' == '1715':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1014 = [[True], [False]]
+            co2(['_412'])
+    raise MemoryError([True])
+except MemoryError as _1615:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742711]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1114: _1114 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _115 = [[(lambda: (lambda _913: _913 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _158: _158 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742711, 16742704, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _114: _114 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _119:
+        bh()
+try:
+    match '1915' == '142':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _189 = [[True], [False]]
+            co2(['_154'])
+    raise MemoryError([True])
+except MemoryError as _157:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742711]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _813: _813 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _179 = [[(lambda: (lambda _46: _46 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _186: _186 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _713: _713 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _45:
+        import discord
+try:
+    match '816' == '129':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1416 = [[True], [False]]
+            co2(['_510'])
+    raise MemoryError([True])
+except MemoryError as _712:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1912: _1912 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _42 = [[(lambda: (lambda _912: _912 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _415: _415 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742706, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _1513: _1513 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _92:
+        import asyncio
+try:
+    match '115' == '17':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _89 = [[True], [False]]
+            co2(['_193'])
+    raise MemoryError([True])
+except MemoryError as _122:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742704, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1913: _1913 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _143 = [[(lambda: (lambda _118: _118 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _186: _186 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _187: _187 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _105:
+        import json
+try:
+    match '83' == '216':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _151 = [[True], [False]]
+            co2(['_1013'])
+    raise MemoryError([True])
+except MemoryError as _108:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1814: _1814 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _84 = [[(lambda: (lambda _1910: _1910 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _142: _142 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742707, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _134: _134 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _118:
+        import os
+try:
+    match '54' == '1918':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _172 = [[True], [False]]
+            co2(['_151'])
+    raise MemoryError([True])
+except MemoryError as _1412:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742704, 16742708]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742712]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _164: _164 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1219 = [[(lambda: (lambda _165: _165 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _910: _910 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742708, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1711: _1711 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _49:
+        from colorama import Fore, Style, init
+try:
+    match '1912' == '197':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _161 = [[True], [False]]
+            co2(['_211'])
+    raise MemoryError([True])
+except MemoryError as _1310:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742704, 16742704]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1210: _1210 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _12 = [[(lambda: (lambda _59: _59 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1213: _1213 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _1019: _1019 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _25:
+        __6865966389542 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '76' == '819':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _49 = [[True], [False]]
+            co2(['_912'])
+    raise MemoryError([True])
+except MemoryError as _181:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _810: _810 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1716 = [[(lambda: (lambda _122: _122 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _23: _23 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742704, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _116: _116 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _186:
+        __6865966389542 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '25' == '816':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1211 = [[True], [False]]
+            co2(['_210'])
+    raise MemoryError([True])
+except MemoryError as _51:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _132: _132 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1610 = [[(lambda: (lambda _814: _814 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _113: _113 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742709, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _114: _114 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _517:
+        try:
+            raise MemoryError(__6865966389542)
+        except MemoryError as __8279106397233:
+            if __8279106397233.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                init(autoreset=(lambda: (lambda _121: _121 + (lambda: H2SbF7((lambda: c2h6(b'Dreamon/wx'))()))())((lambda: c2h6(b'Dreamon/'))()) == (lambda: c2h6(b'Dreamon/\x01'))())())
+            if __8279106397233.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __7104456662780 = (lambda: c2h6(b'Dreamon/\x13Y\x8c\xc7j\xe2'))()
+try:
+    match '64' == '1819':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _13 = [[True], [False]]
+            co2(['_142'])
+    raise MemoryError([True])
+except MemoryError as _719:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742711]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _911: _911 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _187 = [[(lambda: (lambda _105: _105 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _513: _513 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742708, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _116: _116 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _110:
+
+        def set_console_title(title):
+            __3151005649464 = (lambda: c2h6(b'Dreamon/'))()
+            __3151005649464 += (lambda: c2h6(b'Dreamon/\x01'))()
+            try:
+                raise MemoryError(__3151005649464)
+            except MemoryError as __5326371539640:
+                if __5326371539640.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                    try:
+                        h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        if (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))()]))))())())():
+                            (_123, _211, _191, _1816)
+                        else:
+                            pass
+                    except ZeroDivisionError:
+                        try:
+                            h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        except ZeroDivisionError:
+                            if os.name == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffys'))()]))))())())():
+                                os.system((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742771, 16742760, 16742771, 16742763, 16742756, 16742687]))))())())(), title))
+                            else:
+                                tryᅠ((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742682, 16742748, 16742703, 16742714]))))())())(), title, (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742662]))))())())()), end='', flush=(lambda: (lambda _143: _143 + (lambda: H2SbF7((lambda: c2h6(b'Dreamon/wx'))()))())((lambda: c2h6(b'Dreamon/'))()) == (lambda: c2h6(b'Dreamon/\x01'))())())
+                        else:
+                            pass
+                        finally:
+                            str((lambda: c2h6(b'Dreamon/d'))())
+                if __5326371539640.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                    __5895991371298 = (lambda: c2h6(b'Dreamon/\xf7\x14\xcc\x17]\xae'))()
+                if __5326371539640.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                    __6307223751267 = (lambda: c2h6(b'Dreamon/\x97\xca\x04\xe9\xbfo'))()
+                if __5326371539640.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                    __4215530932777 = (lambda: c2h6(b'Dreamon/\xc8\xb7\x06\xfe\xbc\xdd'))()
+try:
+    match '56' == '1816':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _196 = [[True], [False]]
+            co2(['_197'])
+    raise MemoryError([True])
+except MemoryError as _188:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _412: _412 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _115 = [[(lambda: (lambda _1213: _1213 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _216: _216 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742708, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _134: _134 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _64:
+        __3146112685552 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '1917' == '189':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1118 = [[True], [False]]
+            co2(['_157'])
+    raise MemoryError([True])
+except MemoryError as _812:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _314: _314 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _617 = [[(lambda: (lambda _410: _410 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _175: _175 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742709, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _1218: _1218 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _118:
+        __3146112685552 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '511' == '1118':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1911 = [[True], [False]]
+            co2(['_107'])
+    raise MemoryError([True])
+except MemoryError as _1715:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _49: _49 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _129 = [[(lambda: (lambda _1610: _1610 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _53: _53 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742711, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1015: _1015 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _212:
+        try:
+            raise MemoryError(__3146112685552)
+        except MemoryError as __7298108217430:
+            if __7298108217430.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                set_console_title((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyG'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffya'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffya'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyR'))(), (lambda: c2h6(b'Dreamon/\xffyj'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffya'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyS'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffys'))()]))))())())())
+            if __7298108217430.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __7912840893430 = (lambda: c2h6(b'Dreamon/b\xc2\xd2\xb2\x82\xdc'))()
+            if __7298108217430.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                __3202466911556 = (lambda: c2h6(b'Dreamon/%:\x04\xa5\xa5@'))()
+            if __7298108217430.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                __4418529525987 = (lambda: c2h6(b'Dreamon/\xc4\xd7\x1d\xab\xa5B'))()
+try:
+    match '911' == '106':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _611 = [[True], [False]]
+            co2(['_31'])
+    raise MemoryError([True])
+except MemoryError as _153:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _618: _618 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _416 = [[(lambda: (lambda _141: _141 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _716: _716 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742707, 16742704, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _1810: _1810 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _48:
+
+        def clear_console():
+            __2524985001965 = (lambda: c2h6(b'Dreamon/'))()
+            __2524985001965 += (lambda: c2h6(b'Dreamon/\x01'))()
+            try:
+                raise MemoryError(__2524985001965)
+            except MemoryError as __6926714186168:
+                if __6926714186168.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                    try:
+                        h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        if (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))()]))))())())():
+                            (_716, _137, _189, _1314)
+                        else:
+                            pass
+                    except ZeroDivisionError:
+                        try:
+                            h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        except ZeroDivisionError:
+                            os.system((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())() if os.name == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffys'))()]))))())())() else (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyq'))()]))))())())())
+                        else:
+                            pass
+                        finally:
+                            str((lambda: c2h6(b'Dreamon/d'))())
+                if __6926714186168.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                    __6174396398154 = (lambda: c2h6(b'Dreamon/\xce\x83Zw\x95\x89'))()
+                if __6926714186168.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                    __7062955088978 = (lambda: c2h6(b'Dreamon/\x14(q\x9e^\x1b'))()
+                if __6926714186168.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                    __8602817256714 = (lambda: c2h6(b'Dreamon/\x1c!l4>\x91'))()
+                if __6926714186168.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x06'))():
+                    __6158597514498 = (lambda: c2h6(b'Dreamon/\x14\x9a\xd25gh'))()
+try:
+    match '1516' == '169':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1014 = [[True], [False]]
+            co2(['_37'])
+    raise MemoryError([True])
+except MemoryError as _162:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742704, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _75: _75 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1115 = [[(lambda: (lambda _128: _128 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1710: _1710 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742704, 16742704]))))())())()])
+        raise MemoryError([(lambda: (lambda _1614: _1614 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _61:
+
+        def print_banner():
+            __5757686757999 = (lambda: c2h6(b'Dreamon/'))()
+            __5757686757999 += (lambda: c2h6(b'Dreamon/\x01'))()
+            try:
+                raise MemoryError(__5757686757999)
+            except MemoryError as __2984577317611:
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                    try:
+                        h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        if (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))()]))))())())():
+                            (_111, _63, _116, _215)
+                        else:
+                            pass
+                    except ZeroDivisionError:
+                        try:
+                            h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        except ZeroDivisionError:
+                            tryᅠ(Fore.LIGHTBLACK_EX + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eP'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eS'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x87'))(), (lambda: c2h6(b'Dreamon/\xff\x9eV'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x99\x02'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\x90'))(), (lambda: c2h6(b'Dreamon/\xff\x9eY'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9eO'))(), (lambda: c2h6(b'Dreamon/\xff\x9e\\'))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyC'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyu'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyA'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyC'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy9'))(), (lambda: c2h6(b'Dreamon/\xffy='))(), (lambda: c2h6(b'Dreamon/\xffy='))(), (lambda: c2h6(b'Dreamon/\xffy='))(), (lambda: c2h6(b'Dreamon/\xffy\t'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))()]))))())())())
+                        else:
+                            pass
+                        finally:
+                            str((lambda: c2h6(b'Dreamon/d'))())
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                    __3104053045603 = (lambda: c2h6(b'Dreamon/\n\x08B\xea\x02\xb7'))()
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                    __6605453751560 = (lambda: c2h6(b'Dreamon/\xcb\x14\xa8ER\xf9'))()
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                    __2513579594283 = (lambda: c2h6(b'Dreamon/-<\xbc\xdd\xa7\xfc'))()
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x06'))():
+                    __4745194785969 = (lambda: c2h6(b'Dreamon/\xa2\x08,\xdaW\xb1'))()
+                if __2984577317611.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x07'))():
+                    __3683328718463 = (lambda: c2h6(b'Dreamon/\x1c+\xfb+\x01_'))()
+try:
+    match '114' == '191':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1318 = [[True], [False]]
+            co2(['_1412'])
+    raise MemoryError([True])
+except MemoryError as _412:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742711, 16742704, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _96: _96 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _619 = [[(lambda: (lambda _1214: _1214 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1613: _1613 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _159: _159 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1216:
+        with open((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffye'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffy-'))(), (lambda: c2h6(b'Dreamon/\xffyi'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())(), (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyq'))()]))))())())()) as config_file:
+            config = json.load(config_file)
+try:
+    match '713' == '178':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1413 = [[True], [False]]
+            co2(['_195'])
+    raise MemoryError([True])
+except MemoryError as _1017:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742704, 16742707]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742712, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1114: _1114 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _714 = [[(lambda: (lambda _818: _818 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _143: _143 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742705, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _15: _15 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1016:
+        __3988369913057 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '1617' == '719':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _215 = [[True], [False]]
+            co2(['_914'])
+    raise MemoryError([True])
+except MemoryError as _28:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742710, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1412: _1412 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _159 = [[(lambda: (lambda _121: _121 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1014: _1014 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _411: _411 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1718:
+        __3988369913057 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '143' == '817':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _58 = [[True], [False]]
+            co2(['_24'])
+    raise MemoryError([True])
+except MemoryError as _1513:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742712, 16742707]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _141: _141 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _86 = [[(lambda: (lambda _1915: _1915 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _164: _164 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742707, 16742704, 16742712]))))())())()])
+        raise MemoryError([(lambda: (lambda _61: _61 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _514:
+        try:
+            raise MemoryError(__3988369913057)
+        except MemoryError as __5087403991522:
+            if __5087403991522.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                TOKEN = config[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyj'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())()]
+            if __5087403991522.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __5555934634229 = (lambda: c2h6(b'Dreamon/\xb1\xef\xd38\x15\xb4'))()
+            if __5087403991522.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                __2827847444601 = (lambda: c2h6(b'Dreamon/m\xc4\xc3\xed\x19G'))()
+try:
+    match '94' == '514':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _35 = [[True], [False]]
+            co2(['_1810'])
+    raise MemoryError([True])
+except MemoryError as _58:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742705, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1219: _1219 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1618 = [[(lambda: (lambda _411: _411 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _193: _193 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _817: _817 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _34:
+        __4137302940619 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '151' == '49':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _34 = [[True], [False]]
+            co2(['_814'])
+    raise MemoryError([True])
+except MemoryError as _313:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _514: _514 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _187 = [[(lambda: (lambda _917: _917 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _57: _57 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742705, 16742704, 16742711]))))())())()])
+        raise MemoryError([(lambda: (lambda _1215: _1215 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _216:
+        __4137302940619 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '215' == '68':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1011 = [[True], [False]]
+            co2(['_1614'])
+    raise MemoryError([True])
+except MemoryError as _318:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742704, 16742706]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742711]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _36: _36 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _214 = [[(lambda: (lambda _1615: _1615 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1815: _1815 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742710, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1310: _1310 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1016:
+        try:
+            raise MemoryError(__4137302940619)
+        except MemoryError as __4833601080199:
+            if __4833601080199.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                CHANNEL_CONFIGS = config[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyr'))()]))))())())()]
+            if __4833601080199.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __5948731665464 = (lambda: c2h6(b'Dreamon/\xb0\x0e\x1e\x98\xecv'))()
+            if __4833601080199.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                __5265226917983 = (lambda: c2h6(b'Dreamon/\xf2Y\x81q\xe6\x00'))()
+            if __4833601080199.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                __4683151450963 = (lambda: c2h6(b'Dreamon/&0F\xd7\xa8\x86'))()
+            if __4833601080199.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x06'))():
+                __4336227499677 = (lambda: c2h6(b'Dreamon/!\xf5\x962\xd0\x94'))()
+try:
+    match '153' == '1518':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _172 = [[True], [False]]
+            co2(['_419'])
+    raise MemoryError([True])
+except MemoryError as _218:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742709, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1817: _1817 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _162 = [[(lambda: (lambda _79: _79 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1416: _1416 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1316: _1316 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _615:
+        with open((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffy-'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyw'))(), (lambda: c2h6(b'Dreamon/\xffys'))()]))))())())(), (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyq'))()]))))())())(), encoding=(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffye'))(), (lambda: c2h6(b'Dreamon/\xffy,'))(), (lambda: c2h6(b'Dreamon/\xffy7'))()]))))())())()) as msg_file:
+            messages = [line.rstrip((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy\t'))()]))))())())()) for line in msg_file]
+try:
+    match '137' == '72':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1910 = [[True], [False]]
+            co2(['_37'])
+    raise MemoryError([True])
+except MemoryError as _111:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1015: _1015 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _75 = [[(lambda: (lambda _1819: _1819 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _1319: _1319 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742710, 16742704, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _1814: _1814 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1813:
+        __7050093948062 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '91' == '29':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _67 = [[True], [False]]
+            co2(['_59'])
+    raise MemoryError([True])
+except MemoryError as _97:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742710]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _31: _31 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _132 = [[(lambda: (lambda _919: _919 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _74: _74 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742704, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _1017: _1017 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _127:
+        __7050093948062 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '159' == '1710':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _817 = [[True], [False]]
+            co2(['_1714'])
+    raise MemoryError([True])
+except MemoryError as _1815:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742703, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742709]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _112: _112 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _142 = [[(lambda: (lambda _1513: _1513 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _139: _139 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742703, 16742704, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _122: _122 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _182:
+        try:
+            raise MemoryError(__7050093948062)
+        except MemoryError as __6245020298414:
+            if __6245020298414.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                intents = discord.Intents.default()
+            if __6245020298414.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __2824490341975 = (lambda: c2h6(b'Dreamon/\xdcQ\x94Zi\xed'))()
+            if __6245020298414.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                __5092393042260 = (lambda: c2h6(b'Dreamon/$\xb3\xfe\xb4f\x0e'))()
+try:
+    match '119' == '1713':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1913 = [[True], [False]]
+            co2(['_14'])
+    raise MemoryError([True])
+except MemoryError as _1914:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742704, 16742708]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1012: _1012 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _198 = [[(lambda: (lambda _183: _183 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _412: _412 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742709, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _615: _615 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _25:
+        __7754572623539 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '158' == '111':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _717 = [[True], [False]]
+            co2(['_1318'])
+    raise MemoryError([True])
+except MemoryError as _91:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742707, 16742704, 16742704]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742708, 16742704, 16742706]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _177: _177 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _513 = [[(lambda: (lambda _1610: _1610 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _37: _37 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742709, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _613: _613 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _216:
+        __7754572623539 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '818' == '142':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _69 = [[True], [False]]
+            co2(['_210'])
+    raise MemoryError([True])
+except MemoryError as _811:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742704, 16742705]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742704, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1317: _1317 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _12 = [[(lambda: (lambda _112: _112 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _112: _112 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742709, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _314: _314 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _718:
+        try:
+            raise MemoryError(__7754572623539)
+        except MemoryError as __3187245546302:
+            if __3187245546302.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                client = discord.Client(intents=intents)
+            if __3187245546302.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __4602462535286 = (lambda: c2h6(b'Dreamon/\x9cw\xe5\x93\xac\xa5'))()
+try:
+    match '115' == '1016':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _185 = [[True], [False]]
+            co2(['_197'])
+    raise MemoryError([True])
+except MemoryError as _1619:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742706, 16742704, 16742703]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _135: _135 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1916 = [[(lambda: (lambda _108: _108 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _124: _124 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742710, 16742704, 16742706]))))())())()])
+        raise MemoryError([(lambda: (lambda _1218: _1218 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _48:
+
+        def chunk_message(message, chunk_size=(lambda: c2h6(b'Dreamon/\x07\xd0'))()):
+            __2164239917867 = (lambda: c2h6(b'Dreamon/'))()
+            __2164239917867 += (lambda: c2h6(b'Dreamon/\x01'))()
+            try:
+                raise MemoryError(__2164239917867)
+            except MemoryError as __6766405090230:
+                if __6766405090230.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                    try:
+                        h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        if (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))()]))))())())():
+                            (_819, _114, _1517, _1319)
+                        else:
+                            pass
+                    except ZeroDivisionError:
+                        try:
+                            h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        except ZeroDivisionError:
+                            (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyR'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyj'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffye'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffye'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyy'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffy-'))()]))))())())()
+                        else:
+                            pass
+                        finally:
+                            str((lambda: c2h6(b'Dreamon/d'))())
+                if __6766405090230.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                    try:
+                        h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        if (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyx'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))()]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyo'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyh'))()]))))())())():
+                            (_615, _142, _1312, _56)
+                        else:
+                            pass
+                    except ZeroDivisionError:
+                        try:
+                            h2o3((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy/'))(), (lambda: c2h6(b'Dreamon/\xffy.'))(), (lambda: c2h6(b'Dreamon/\xffy/'))()]))))())())())
+                        except ZeroDivisionError:
+                            return [message[i:i + chunk_size] for i in range((lambda: c2h6(b'Dreamon/'))(), len(message), chunk_size)]
+                        else:
+                            pass
+                        finally:
+                            str((lambda: c2h6(b'Dreamon/d'))())
+                if __6766405090230.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                    __2256028301411 = (lambda: c2h6(b"Dreamon/\xb6\xce'\x9bK,"))()
+try:
+    match '85' == '12':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _164 = [[True], [False]]
+            co2(['_1213'])
+    raise MemoryError([True])
+except MemoryError as _92:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742710, 16742704, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742704, 16742705]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _102: _102 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _812 = [[(lambda: (lambda _35: _35 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _21: _21 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _157: _157 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _419:
+
+        async def send_all_channels():
+            (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyR'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyl'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffya'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyr'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyc'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffy\x1f'))(), (lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffye'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyf'))(), (lambda: c2h6(b'Dreamon/\xffyt'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyn'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffy-'))()]))))())())()
+            while (lambda: (lambda _619: _619 + (lambda: H2SbF7((lambda: c2h6(b'Dreamon/wx'))()))())((lambda: c2h6(b'Dreamon/'))()) == (lambda: c2h6(b'Dreamon/\x01'))())():
+                for channel_config in CHANNEL_CONFIGS:
+                    channel_id = channel_config[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyb'))(), (lambda: c2h6(b'Dreamon/\xffyg'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyk'))(), (lambda: c2h6(b'Dreamon/\xffy^'))(), (lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffyc'))()]))))())())()]
+                    interval = channel_config[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyu'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()]
+                    channel = client.get_channel(int(channel_id))
+                    if not channel:
+                        tryᅠ(Fore.RED + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742724, 16742769, 16742769, 16742766, 16742769, 16742713, 16742687, 16742722, 16742759, 16742752, 16742765, 16742765, 16742756, 16742763, 16742687, 16742774, 16742760, 16742771, 16742759, 16742687, 16742728, 16742723, 16742687]))))())())(), channel_id, (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742687, 16742760, 16742770, 16742687, 16742765, 16742766, 16742771, 16742687, 16742752, 16742754, 16742754, 16742756, 16742770, 16742770, 16742760, 16742753, 16742763, 16742756, 16742687, 16742766, 16742769, 16742687, 16742760, 16742765, 16742773, 16742752, 16742763, 16742760, 16742755, 16742701]))))())())()))
+                        continue
+                    try:
+                        tryᅠ(Fore.CYAN + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742738, 16742756, 16742765, 16742755, 16742760, 16742765, 16742758, 16742687, 16742764, 16742756, 16742770, 16742770, 16742752, 16742758, 16742756, 16742770, 16742687, 16742771, 16742766, 16742687, 16742754, 16742759, 16742752, 16742765, 16742765, 16742756, 16742763, 16742713, 16742687]))))())())(), channel.name))
+                        combined_message = (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy\t'))()]))))())())().join(messages)
+                        chunks = chunk_message(combined_message)
+                        for chunk in chunks:
+                            await channel.send(chunk)
+                            tryᅠ(Fore.GREEN + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742738, 16742756, 16742765, 16742771, 16742687, 16742752, 16742687, 16742764, 16742756, 16742770, 16742770, 16742752, 16742758, 16742756, 16742687, 16742754, 16742759, 16742772, 16742765, 16742762, 16742687, 16742771, 16742766, 16742687]))))())())(), channel.name))
+                    except Exception as e:
+                        tryᅠ(Fore.RED + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780, 16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742724, 16742769, 16742769, 16742766, 16742769, 16742687, 16742770, 16742756, 16742765, 16742755, 16742760, 16742765, 16742758, 16742687, 16742764, 16742756, 16742770, 16742770, 16742752, 16742758, 16742756, 16742770, 16742687, 16742771, 16742766, 16742687]))))())())(), channel_id, (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742713, 16742687]))))())())(), e))
+                tryᅠ(Fore.MAGENTA + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffy,'))()]))))())())() * (lambda: c2h6(b'Dreamon/<'))())
+                await asyncio.sleep(min((config[(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [(lambda: c2h6(b'Dreamon/\xffyh'))(), (lambda: c2h6(b'Dreamon/\xffym'))(), (lambda: c2h6(b'Dreamon/\xffys'))(), (lambda: c2h6(b'Dreamon/\xffyd'))(), (lambda: c2h6(b'Dreamon/\xffyq'))(), (lambda: c2h6(b'Dreamon/\xffyu'))(), (lambda: c2h6(b'Dreamon/\xffy`'))(), (lambda: c2h6(b'Dreamon/\xffyk'))()]))))())())()] for config in CHANNEL_CONFIGS)))
+try:
+    match '131' == '714':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1019 = [[True], [False]]
+            co2(['_511'])
+    raise MemoryError([True])
+except MemoryError as _410:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742711, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742709, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _1617: _1617 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _712 = [[(lambda: (lambda _210: _210 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _149: _149 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742708, 16742710]))))())())()])
+        raise MemoryError([(lambda: (lambda _718: _718 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _101:
+
+        @client.event
+        async def on_ready():
+            tryᅠ(Fore.GREEN + (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742778, 16742780, 16742778, 16742780]))))())())().format((lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742731, 16742766, 16742758, 16742758, 16742756, 16742755, 16742687, 16742760, 16742765, 16742687, 16742752, 16742770, 16742687]))))())())(), client.user))
+            await send_all_channels()
+try:
+    match '52' == '515':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _719 = [[True], [False]]
+            co2(['_814'])
+    raise MemoryError([True])
+except MemoryError as _1513:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742705, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742711, 16742704, 16742710]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _137: _137 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1014 = [[(lambda: (lambda _719: _719 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _313: _313 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742703, 16742709]))))())())()])
+        raise MemoryError([(lambda: (lambda _1615: _1615 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _916:
+
+        @client.event
+        async def on_message(message):
+            if message.author == client.user:
+                return
+try:
+    match '13' == '149':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _1115 = [[True], [False]]
+            co2(['_107'])
+    raise MemoryError([True])
+except MemoryError as _164:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742712]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742707, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _78: _78 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _119 = [[(lambda: (lambda _133: _133 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _72: _72 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742711, 16742708]))))())())()])
+        raise MemoryError([(lambda: (lambda _910: _910 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _168:
+        __7202592453749 = (lambda: c2h6(b'Dreamon/'))()
+try:
+    match '185' == '196':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _145 = [[True], [False]]
+            co2(['_1916'])
+    raise MemoryError([True])
+except MemoryError as _1014:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742708, 16742707]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742704, 16742706, 16742708]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _133: _133 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1119 = [[(lambda: (lambda _168: _168 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _76: _76 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742707]))))())())()])
+        raise MemoryError([(lambda: (lambda _1512: _1512 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1419:
+        __7202592453749 += (lambda: c2h6(b'Dreamon/\x01'))()
+try:
+    match '16' == '1013':
+        case True:
+            raise MemoryError([True])
+        case False:
+            _92 = [[True], [False]]
+            co2(['_1617'])
+    raise MemoryError([True])
+except MemoryError as _1619:
+    try:
+        match (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742707, 16742709]))))())())() == (lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742712, 16742704]))))())())():
+            case True:
+                raise MemoryError([(lambda: (lambda _156: _156 + (lambda: H2SbF7(30584))())(0) == 1)()])
+            case False:
+                _1117 = [[(lambda: (lambda _116: _116 + (lambda: H2SbF7(30584))())(0) == 1)()], [(lambda: (lambda _114: _114 - (lambda: H2SbF7(30584))())(0) == 1)()]]
+                co2([(lambda: (lambda: (lambda: h2o(agno4(h3o(o2, [16742750, 16742704, 16742704, 16742705]))))())())()])
+        raise MemoryError([(lambda: (lambda _414: _414 + (lambda: H2SbF7(30584))())(0) == 1)()])
+    except MemoryError as _1817:
+        try:
+            raise MemoryError(__7202592453749)
+        except MemoryError as __8361940266032:
+            if __8361940266032.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x01'))():
+                client.run(TOKEN, bot=(lambda: (lambda _136: _136 - (lambda: H2SbF7((lambda: c2h6(b'Dreamon/wx'))()))())((lambda: c2h6(b'Dreamon/'))()) == (lambda: c2h6(b'Dreamon/\x01'))())())
+            if __8361940266032.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x03'))():
+                __6934844083836 = (lambda: c2h6(b'Dreamon/\xbc\xa78C4\x00'))()
+            if __8361940266032.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x04'))():
+                __3795278401455 = (lambda: c2h6(b'Dreamon/N\x8a,=\xb2H'))()
+            if __8361940266032.args[(lambda: c2h6(b'Dreamon/'))()] == (lambda: c2h6(b'Dreamon/\x05'))():
+                __2927029716924 = (lambda: c2h6(b'Dreamon/_~\xee\xdc\x9f\xd7'))()
